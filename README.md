@@ -1,4 +1,4 @@
-# Processing-Data-with-PySpark---Team-25
+# Processing Data with PySpark Team-25
 
 This repo contains src code for processing tweets with PySpark
 
